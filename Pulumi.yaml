@@ -1,0 +1,3 @@
+name: cert-manager
+runtime: nodejs
+description: Deploy cert-manager with Pulumi

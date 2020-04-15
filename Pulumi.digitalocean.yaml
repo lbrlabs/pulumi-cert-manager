@@ -1,0 +1,9 @@
+config:
+  cert-manager:apiToken:
+    secure: AAABAEf1FqdSahhkQ61At2fB702w49M9f81T8Zy6fiL5UrWcAKzo13+IKDdVXUj6We3lPouce4dOwfQfTX9+CH6kL66A5OmJ
+  cert-manager:clusterProject: digitalocean-cluster
+  cert-manager:emailAddress:
+    secure: AAABAFHho/tPCOzqrxliyYRIP1xvBaKS5IRtQzYEBqbu5CDPHRd9X7i6VjkXDhthWkwt
+  cert-manager:namespace: cert-manager
+  cert-manager:dnsNames: 
+  - home.lbrlabs.com
